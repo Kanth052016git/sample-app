@@ -1,4 +1,8 @@
+
+[![Build Status](https://dev.azure.com/umakanth0969/Sample/_apis/build/status/Kanth052016git.sample-app)](https://dev.azure.com/umakanth0969/Sample/_build/latest?definitionId=1)
+
 # Sample Python app for Azure Pipelines docs
+
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
